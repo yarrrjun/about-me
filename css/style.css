@@ -1,0 +1,50 @@
+ul{
+    width: 50%; 
+    margin:0px auto; 
+    text-align: justify;
+}
+#contact-info {
+    background-color: darkgreen;
+    color: antiquewhite;
+}
+#main-bio {
+    background-image: url("https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/field-of-amaranth-blooming-red-flowers-royalty-free-image-1060130606-1554736005.jpg?crop=0.524xw:0.787xh;0.476xw,0.213xh&resize=768:*");
+    color: yellow;
+    text-align: center;
+}
+#purpose {
+    color: brown;
+    text-align: center;
+}
+#name {
+    font-size: 28px;
+    color: #eee;
+    text-align: center;
+    margin: 0 0 20px 0;
+}
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #efeee7;
+    font-size: 12px;
+    font-family: Georgia,"Times New Roman",Times,serif;
+    color: #333333;
+  }
+p {
+      font-size: 1em;
+}
+header {
+    background-color: #000000;
+}
+section{
+    float: left;
+    text-align: left;
+}
+a{
+    color: red;
+}
+.container{
+    margin: 0 auto;
+    width: 720px;
+    background-color: tan;
+}
